@@ -22,7 +22,7 @@ const Hero = () => {
             I develop <sup className="text-[#915EFF]">"</sup>Full Stack
             <sup className="text-[#915EFF]">"</sup> web{" "}
             <br className="sm:block hidden" />
-            applications and UI/UX
+            applications and great UI/UX
           </p>
         </div>
       </div>
